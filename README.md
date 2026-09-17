@@ -1,4 +1,8 @@
 # ⚔️ AI Model Testing Arena
+Built AI mode evaluation platform that benchmarked multiple models across accurancy, structured-output reliability,
+latency, cost, and adversarial test cases.
+
+
 
 A blind, head-to-head comparison platform for LLMs: send one prompt to multiple models
 simultaneously, compare their cost/latency/quality side by side, vote on which response is
@@ -208,6 +212,13 @@ docker compose up --build
   as models with hundreds)
 - Export battle results as a shareable report
 
-## 📄 License
+## Author
+Muhiadin Said Hassan Software AI Engineer | Machine Learning Engineer | LLM Engineer
 
-MIT
+GitHub: @MUHIYADIN2025 Email: [muhidiin090448@gmail.com]
+
+⭐ Support If you find this project useful, consider giving the repository a star ⭐ on GitHub.
+
+Contributions, suggestions, and improvements are welcome.
+
+
